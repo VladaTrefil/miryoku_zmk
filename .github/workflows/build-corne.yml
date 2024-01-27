@@ -9,7 +9,7 @@ on:
       shield:
         description: "shield"
         required: false
-        default: "corne_left,corne_right"
+        default: "corne_left nice_view,corne_right nice_view"
       alphas:
         description: "alphas"
         required: false
